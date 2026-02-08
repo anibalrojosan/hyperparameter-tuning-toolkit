@@ -29,4 +29,5 @@ dist/
 /data/**/*.pkl
 /data/**/*.h5
 
-
+# Project Documentation
+github_projects.md
